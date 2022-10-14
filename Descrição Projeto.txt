@@ -1,0 +1,8 @@
+*** Programa de Vendas de Pizzas com HTML + CSS + JavaScript ***
+
+Este projeto consiste em manipular as quantidades de pizzas vendias, 
+e ao final emitir uma planilha em excel para desenvolver uma maior complexidade 
+no projeto.
+Projeto básico mais incorporava diversos pontos de manupulação do DOM, posteriormente,
+pode ser feito uma versão melhorada.
+São registrados 3 tipos de pizzas, valores e quantidade.
